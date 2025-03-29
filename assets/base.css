@@ -3595,3 +3595,20 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+/* Button-CSS */
+.button--small {
+  padding: 16px 32px;
+  font-size: 18px;
+}
+
+.button--medium {
+  padding: 20px 40px;
+  font-size: 22px;
+}
+
+.button--large {
+  padding: 24px 48px;
+  font-size: 26px;
+}
+
