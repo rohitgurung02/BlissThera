@@ -4,6 +4,7 @@
 
 .image-with-text .grid__item {
   position: relative;
+  background: #f6f2ed;
 }
 
 @media screen and (min-width: 750px) {
