@@ -27,7 +27,24 @@
   {{ 'component-price.css' | asset_url | stylesheet_tag }}
   {{ 'quick-order-list.css' | asset_url | stylesheet_tag }}
   {{ 'quantity-popover.css' | asset_url | stylesheet_tag }}
+  {{ 'section-rich-text.css' | asset_url | stylesheet_tag }}
 {%- endunless -%}
+
+{% style %}
+  .product_buttons {
+    display: flex;
+    margin-top: 12px;
+    justify-content: space-around;
+  }
+  .product_buttons a {
+    text-decoration: none !important;
+  }
+  .product_buttons a:hover {
+    pointer-events: none !important;
+    border: none !important;
+  }
+{% endstyle %}
+
 {%- if card_product and card_product != empty -%}
   {%- liquid
     assign ratio = 1
@@ -160,6 +177,7 @@
               {{ card_product.title | escape }}
             </a>
           </h3>
+
           <div class="card-information">
             {%- if show_vendor -%}
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
@@ -285,6 +303,44 @@
                 </div>
                 </quantity-popover>
               {% endif %}
+            {%- endif -%}
+          </div>
+          {% comment %} custom button {% endcomment %}
+          <div class="product_buttons">
+            <a class="button button--secondary">{{ section.settings.button_label }}</a>
+            <a class="button button--primary">{{ section.settings.button_label_2 }}</a>
+          </div>
+          <div
+            class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+            {{ block.shopify_attributes }}
+            {% if settings.animations_reveal_on_scroll %}
+              data-cascade
+              style="--animation-order: {{ forloop.index }};"
+            {% endif %}
+          >
+            {%- if block.settings.button_label != blank -%}
+              <a
+                {% if block.settings.button_link == blank %}
+                  role="link" aria-disabled="true"
+                {% else %}
+                  href="{{ block.settings.button_link }}"
+                {% endif %}
+                class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"
+              >
+                {{- block.settings.button_label | escape -}}
+              </a>
+            {%- endif -%}
+            {%- if block.settings.button_label_2 != blank -%}
+              <a
+                {% if block.settings.button_link_2 == blank %}
+                  role="link" aria-disabled="true"
+                {% else %}
+                  href="{{ block.settings.button_link_2 }}"
+                {% endif %}
+                class="button{% if block.settings.button_style_secondary_2 %} button--secondary{% else %} button--primary{% endif %}"
+              >
+                {{- block.settings.button_label_2 | escape -}}
+              </a>
             {%- endif -%}
           </div>
         </div>
@@ -617,7 +673,7 @@
             {%- endif -%}
             {% render 'price', placeholder: placeholder, show_compare_at_price: true %}
           </div>
-        </div>s
+        </div>
       </div>
     </div>
   </div>
