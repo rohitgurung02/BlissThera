@@ -19,10 +19,10 @@
     <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
         <div class="image-block">
-          <a href="{{ section.settings.image }}">
-            <img src="{{ section.settings.image }}" alt="Image">
-          </a>
-        </div>
+  <a href="{{ section.settings.image }}">
+    <img src="{{ section.settings.image }}" alt="Image">
+  </a>
+</div>
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
