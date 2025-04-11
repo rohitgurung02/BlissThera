@@ -63,7 +63,7 @@
           "type": "heading",
           "settings": {
             "heading": "Homeostasis and Wellbeing",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_43MdRB": {
@@ -72,20 +72,11 @@
             "text": "<p>The body’s homeostasis system is a remarkable network of natural healing mechanisms that work together to support health and recovery in response to internal and external influences. Simply put, homeostasis is the body’s \"internal machinery\" that is constantly working to help keep us pain-free and ready to thrive. When homeostasis is not working its best, or if negative symptoms persist due to illness, injury, or disease, homeostasis support may help.<br/><br/></p>",
             "text_style": "body"
           }
-        },
-        "button_gYW9NY": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_dDKWnw",
-        "text_43MdRB",
-        "button_gYW9NY"
+        "text_43MdRB"
       ],
       "settings": {
         "image": "shopify://shop_images/BlissThera-homeostasis-therapy-phytochemcial-synergy-forest-terpenes.webp",
