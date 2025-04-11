@@ -20,7 +20,7 @@
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
         <div class="image-block">
   <a href="{{ section.settings.image }}">
-    <img src="{{ section.settings.image }}" alt="Image">
+    <img src="{{ section.settings.image | image_url: width: 1200 }}" alt="Image" loading="lazy">
   </a>
 </div>
         {%- for block in section.blocks -%}
