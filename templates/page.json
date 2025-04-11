@@ -18,39 +18,6 @@
     },
     "image_banner_clone_Gze6JN": {
       "type": "image-banner-clone",
-      "blocks": {
-        "heading_EfAAPx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_fwLMCh": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_kjGnCp": {
-          "type": "buttons",
-          "settings": {
-            "button_size_1": "medium",
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_EfAAPx",
-        "text_fwLMCh",
-        "buttons_kjGnCp"
-      ],
       "settings": {
         "image": "shopify://shop_images/BlissThera-Forest-Medicine-Virtual-Nature-Therapy-Forest-Walk-branded_1.webp",
         "image_overlay_opacity": 0,
@@ -64,10 +31,54 @@
         "mobile_content_alignment": "center",
         "show_text_below": true
       }
+    },
+    "rich_text_LHKHDD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9E6tCM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_tgLH9x": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_qrr7QK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9E6tCM",
+        "text_tgLH9x",
+        "button_qrr7QK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/22.png",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_clone_Gze6JN"
+    "image_banner_clone_Gze6JN",
+    "rich_text_LHKHDD"
   ]
 }
