@@ -89,3 +89,7 @@
  width: 223px !important;
   height: 93px !important;
 }
+
+.rich-text__blocks h2 {
+  margin: 0;
+}
