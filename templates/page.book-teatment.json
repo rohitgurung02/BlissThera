@@ -16,9 +16,59 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_banner_clone_KJL8xK": {
+      "type": "image-banner-clone",
+      "blocks": {
+        "heading_pE7FY4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_mKp8Dp": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_tJmxdd": {
+          "type": "buttons",
+          "settings": {
+            "button_size_1": "medium",
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pE7FY4",
+        "text_mKp8Dp",
+        "buttons_tJmxdd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BlissThera-Forest-Medicine-Virtual-Nature-Therapy-Forest-Walk-branded_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_clone_KJL8xK"
   ]
 }
