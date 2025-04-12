@@ -110,17 +110,8 @@
         "heading_MwF9ht": {
           "type": "heading",
           "settings": {
-            "heading": "new heading",
+            "heading": "Book a Treatment",
             "heading_size": "h1"
-          }
-        },
-        "header_Bi4Pe9": {
-          "type": "header",
-          "settings": {
-            "heading_first": "heading first",
-            "heading_size_first": "h2",
-            "padding_top": 0,
-            "padding_bottom": 0
           }
         },
         "text_ggcX8f": {
@@ -141,7 +132,6 @@
       },
       "block_order": [
         "heading_MwF9ht",
-        "header_Bi4Pe9",
         "text_ggcX8f",
         "button_kmxnbk"
       ],
