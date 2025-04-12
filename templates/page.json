@@ -132,26 +132,24 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_F7W9qK": {
+    "image_with_text_8ecxkN": {
       "type": "image-with-text",
       "blocks": {
-        "header_U6bzkh": {
-          "type": "header",
+        "heading_t8pEDg": {
+          "type": "heading",
           "settings": {
-            "heading_first": "Virtual Nature Personal Forest Atmosphere Technology",
-            "heading_size_first": "h1",
-            "padding_top": 0,
-            "padding_bottom": 0
+            "heading": "Virtual Nature Personal Forest Atmosphere Technology",
+            "heading_size": "h1"
           }
         },
-        "text_Nn7mW7": {
+        "text_WRMgrq": {
           "type": "text",
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         },
-        "button_HqVnb9": {
+        "button_h4rxAD": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
@@ -161,9 +159,9 @@
         }
       },
       "block_order": [
-        "header_U6bzkh",
-        "text_Nn7mW7",
-        "button_HqVnb9"
+        "heading_t8pEDg",
+        "text_WRMgrq",
+        "button_h4rxAD"
       ],
       "settings": {
         "height": "adapt",
@@ -187,6 +185,6 @@
     "rich_text_tUrRfp",
     "image_with_text_eMRTzR",
     "image_with_text_t9KU4J",
-    "image_with_text_F7W9qK"
+    "image_with_text_8ecxkN"
   ]
 }
