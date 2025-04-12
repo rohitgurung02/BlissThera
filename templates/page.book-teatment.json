@@ -46,25 +46,13 @@
         "text_qHcAcN": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_Lf9fyg": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>For most of human history, people have thrived in natural environments rich with plant life. These ecosystems release a vast array of airborne bioactive compounds, including terpenes, phytoncides, and other volatile organic compounds.</p>"
           }
         }
       },
       "block_order": [
         "heading_HdFFxX",
-        "text_qHcAcN",
-        "button_Lf9fyg"
+        "text_qHcAcN"
       ],
       "settings": {
         "image": "shopify://shop_images/BlissThera-Forest-Medicine-Logo-1.87mb_1.webp",
