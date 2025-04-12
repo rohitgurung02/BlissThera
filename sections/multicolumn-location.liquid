@@ -75,7 +75,7 @@
               style="--animation-order: {{ forloop.index }};"
             {% endif %}
           >
-            <div class="multicolumn-card content-container  color-{{ block.settings.color_scheme }}">
+            <div class="multicolumn-card content-container">
               {%- if block.settings.image != blank -%}
                 {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
                   {% assign spaced_image = true %}
@@ -84,7 +84,7 @@
                   <div
                     class="media media--transparent media--{{ section.settings.image_ratio }}"
                     {% if section.settings.image_ratio == 'adapt' %}
-                      style="padding-bottom: {{ 1 | divided_by: highest_ratio | times: 80 }}%;"
+                      style="padding-bottom: {{ 1 | divided_by: highest_ratio | times: 100 }}%;"
                     {% endif %}
                   >
                     {%- liquid
@@ -121,27 +121,10 @@
               <div class="multicolumn-card__info">
                 {%- if block.settings.title != blank -%}
                   <h3 class="inline-richtext">{{ block.settings.title }}</h3>
-                  {% comment %} Review {% endcomment %}
-                  <div class="rating">
-                    {% assign num_stars = block.settings.num_stars %}
-                    {% assign filled_star_color = block.settings.filled_star_color %}
-                    {% assign empty_star_color = block.settings.filled_star_color %}
-                    {% assign bg_star_color = block.settings.bg_star_color %}
-
-                    {% for i in (1..num_stars) %}
-                      <span
-                        class="star{% if i <= product.average_rating %} filled{% endif %}"
-                        style="color: {% if i <= product.average_rating %}{{ filled_star_color }}{% else %}{{ empty_star_color }}{% endif %}; background-color: {{ bg_star_color }};"
-                      >
-                        ★
-                      </span>
-                    {% endfor %}
-                  </div>
                 {%- endif -%}
                 {%- if block.settings.text != blank -%}
                   <div class="rte">{{ block.settings.text }}</div>
                 {%- endif -%}
-
                 {%- if block.settings.link_label != blank -%}
                   <a
                     class="link animate-arrow"
@@ -162,6 +145,8 @@
           </li>
         {%- endfor -%}
       </ul>
+
+      hekko
 
       {%- if show_mobile_slider -%}
         <div class="slider-buttons large-up-hide">
@@ -439,36 +424,6 @@
           "label": "t:sections.multicolumn.blocks.column.settings.text.label"
         },
         {
-          "type": "number",
-          "id": "num_stars",
-          "label": "Number of Stars",
-          "default": 5
-        },
-        {
-          "type": "color",
-          "id": "filled_star_color",
-          "label": "Filled Star Color",
-          "default": "#FFD700"
-        },
-        {
-          "type": "color",
-          "id": "empty_star_color",
-          "label": "Empty Star Color",
-          "default": "#CCCCCC"
-        },
-        {
-          "type": "color",
-          "id": "bg_star_color",
-          "label": "Star Background Color",
-          "default": "transparent"
-        },
-        {
-          "type": "color_scheme",
-          "id": "color_scheme",
-          "label": "My BG Color",
-          "default": "scheme-6"
-        },
-        {
           "type": "text",
           "id": "link_label",
           "label": "t:sections.multicolumn.blocks.column.settings.link_label.label",
@@ -484,11 +439,8 @@
   ],
   "presets": [
     {
-      "name": "multicolumn location",
+      "name": "Steps Section",
       "blocks": [
-        {
-          "type": "column"
-        },
         {
           "type": "column"
         },
