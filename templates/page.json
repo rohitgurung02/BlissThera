@@ -83,7 +83,9 @@
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
-        "color_scheme": ""
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
