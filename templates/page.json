@@ -148,22 +148,14 @@
             "text": "<p>Administered by certified BlissThera<strong>®</strong>practitioners, the system enables the administration of tailored Homeostasis Therapies (via Microprocessor Controlled Phytochemical Synergy) through physician-designed therapy software applications that are programmed into the microprocessor.</p>",
             "text_style": "body"
           }
-        },
-        "button_h4rxAD": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_t8pEDg",
-        "text_WRMgrq",
-        "button_h4rxAD"
+        "text_WRMgrq"
       ],
       "settings": {
+        "image": "shopify://shop_images/repotting-succulents.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
