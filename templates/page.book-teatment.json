@@ -180,7 +180,7 @@
       "settings": {
         "title": "Locations",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "button_label": "Button label",
         "button_link": "",
