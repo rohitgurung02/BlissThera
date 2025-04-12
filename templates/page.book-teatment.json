@@ -79,23 +79,14 @@
         "text_c9L9Dj": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>This therapeutic synergy occurs when multiple phytochemicals interact with various receptor systems in the body, amplifying their collective therapeutic effects.</p>",
             "text_style": "body"
-          }
-        },
-        "button_NK63JU": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "header_aYJqtK",
-        "text_c9L9Dj",
-        "button_NK63JU"
+        "text_c9L9Dj"
       ],
       "settings": {
         "image": "shopify://shop_images/BlissThera-homeostasis-therapy-phytochemcial-synergy-forest-terpenes.webp",
