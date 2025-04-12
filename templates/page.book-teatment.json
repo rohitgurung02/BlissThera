@@ -103,12 +103,70 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "image_with_text_DixThd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MwF9ht": {
+          "type": "heading",
+          "settings": {
+            "heading": "new heading",
+            "heading_size": "h1"
+          }
+        },
+        "header_Bi4Pe9": {
+          "type": "header",
+          "settings": {
+            "heading_first": "heading first",
+            "heading_size_first": "h2",
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        },
+        "text_ggcX8f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_kmxnbk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MwF9ht",
+        "header_Bi4Pe9",
+        "text_ggcX8f",
+        "button_kmxnbk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/a-wayfinding-sign-beside-a-path.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "main",
     "image_banner_clone_KJL8xK",
     "rich_text_6MCfcV",
-    "image_with_text_p7XUjG"
+    "image_with_text_p7XUjG",
+    "image_with_text_DixThd"
   ]
 }
