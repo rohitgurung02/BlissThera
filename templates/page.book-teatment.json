@@ -117,23 +117,14 @@
         "text_ggcX8f": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Treatment Locations for BlissThera Forest Medicine & Virtual Nature Therapy<br/><br/></p>",
             "text_style": "body"
-          }
-        },
-        "button_kmxnbk": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_MwF9ht",
-        "text_ggcX8f",
-        "button_kmxnbk"
+        "text_ggcX8f"
       ],
       "settings": {
         "image": "shopify://shop_images/a-wayfinding-sign-beside-a-path.webp",
