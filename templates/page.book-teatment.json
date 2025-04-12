@@ -32,10 +32,54 @@
         "mobile_content_alignment": "center",
         "show_text_below": true
       }
+    },
+    "rich_text_6MCfcV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HdFFxX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_qHcAcN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_Lf9fyg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HdFFxX",
+        "text_qHcAcN",
+        "button_Lf9fyg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BlissThera-Forest-Medicine-Logo-1.87mb_1.webp",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_clone_KJL8xK"
+    "image_banner_clone_KJL8xK",
+    "rich_text_6MCfcV"
   ]
 }
