@@ -246,12 +246,12 @@
 
 /* Star-Rating */
 
-.media--transparent.media--adapt img {
+/* .media--transparent.media--adapt img {
   width: 106px !important;
   height: 92px !important;
   margin-top: 28px;
   border-radius: 50%;
-}
+} */
 
 .rating {
   display: flex;
