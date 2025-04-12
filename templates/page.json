@@ -100,17 +100,8 @@
         "heading_w6QXrc": {
           "type": "heading",
           "settings": {
-            "heading": "new heading",
+            "heading": "The Essence of BlissThera",
             "heading_size": "h1"
-          }
-        },
-        "header_3JDhbr": {
-          "type": "header",
-          "settings": {
-            "heading_first": "heading first",
-            "heading_size_first": "h2",
-            "padding_top": 0,
-            "padding_bottom": 0
           }
         },
         "text_FyEa9j": {
@@ -119,21 +110,11 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
-        },
-        "button_pqdiQk": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_w6QXrc",
-        "header_3JDhbr",
-        "text_FyEa9j",
-        "button_pqdiQk"
+        "text_FyEa9j"
       ],
       "settings": {
         "image": "shopify://shop_images/2148643275.webp",
