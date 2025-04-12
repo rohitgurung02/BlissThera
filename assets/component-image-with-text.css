@@ -184,7 +184,7 @@
   }
 
   .image-with-text__content--top {
-    justify-content: flex-start;
+    justify-content: center;
     align-self: flex-start;
   }
 
