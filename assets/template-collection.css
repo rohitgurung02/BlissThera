@@ -98,4 +98,6 @@
   margin-top: 1rem;
 }
 
-.collection__title .title
+.collection__title .title {
+  text-align: center;
+}
