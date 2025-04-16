@@ -36,71 +36,10 @@
         "padding_top": 68,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_location_ARhU3K": {
-      "type": "multicolumn-location",
-      "blocks": {
-        "column_UD8eKV": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        },
-        "column_jEwMFz": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        },
-        "column_Rb6MRH": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_UD8eKV",
-        "column_jEwMFz",
-        "column_Rb6MRH"
-      ],
-      "name": "Multicolumn Location",
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "Button label",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "multicolumn_location_ARhU3K"
+    "product-grid"
   ]
 }
