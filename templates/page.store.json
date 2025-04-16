@@ -16,22 +16,6 @@
         "padding_bottom": 28
       }
     },
-    "video_cover_image_93yedR": {
-      "type": "video-cover-image",
-      "name": "Video Cover Image",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/BlissThera-Forest-Medicine-Logo-1.87mb_538b0bd2-b9ae-4c27-9bb6-881b2054b7ca.webp",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_Crd49n": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -66,11 +50,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collection_list_RCVqwD": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_K7YnR7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-fav-collection"
+          }
+        },
+        "featured_collection_BW4Mj3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_pCQpBA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_K7YnR7",
+        "featured_collection_BW4Mj3",
+        "featured_collection_pCQpBA"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "video_cover_image_93yedR",
-    "featured_collection_Crd49n"
+    "featured_collection_Crd49n",
+    "collection_list_RCVqwD"
   ]
 }
