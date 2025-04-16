@@ -217,6 +217,10 @@
   font-size: inherit;
 }
 
+.multicolumn-card__info .animate-arrow-second{
+  margin-top: 1.5rem;
+}
+
 .multicolumn-card__info .icon-wrap {
   margin-left: 0.8rem;
   white-space: nowrap;
