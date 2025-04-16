@@ -178,9 +178,11 @@
           "settings": {
             "image": "shopify://shop_images/location_one.webp",
             "title": "BlissThera - North Little Rock, AR Clinic",
-            "text": "<p>5106 McClanahan Dr, North Little Rock, AR 72116<br/>(501) 255-6673‬<br/></p>",
-            "link_label": "Located in",
-            "link": ""
+            "text": "<p>5106 McClanahan Dr, North Little Rock, AR 72116<br/><br/></p>",
+            "link_label": "(501) 255-6673‬",
+            "link": "",
+            "link_label_two": "Located in",
+            "link_second": ""
           }
         },
         "column_7GkMxD": {
@@ -189,7 +191,9 @@
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_label_two": "",
+            "link_second": ""
           }
         },
         "column_zzR4Wr": {
@@ -198,7 +202,9 @@
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_label_two": "",
+            "link_second": ""
           }
         }
       },
