@@ -48,6 +48,6 @@
 }
 
 .video-section__media button img {
-  width: 200px;
-  height: 200px
+  width: 500px !important;
+  height: 500px !important;
 }
