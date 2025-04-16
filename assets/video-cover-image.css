@@ -46,3 +46,8 @@
 .video-section__media.media-fit-cover video {
   object-fit: cover;
 }
+
+.video-section__media button img {
+  width: 200px;
+  height: 200px
+}
