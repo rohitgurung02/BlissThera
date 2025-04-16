@@ -50,10 +50,29 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_blog_JUt7km": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "blog": "",
+        "post_limit": 3,
+        "heading": "",
+        "heading_size": "h1",
+        "columns_desktop": 3,
+        "show_view_all": true,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "featured_collection_Crd49n"
+    "featured_collection_Crd49n",
+    "featured_blog_JUt7km"
   ]
 }
