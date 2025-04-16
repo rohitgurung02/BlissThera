@@ -16,167 +16,44 @@
         "padding_bottom": 28
       }
     },
-    "image_banner_clone_jC4TwP": {
-      "type": "image-banner-clone",
+    "featured_collection_Crd49n": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "image": "shopify://shop_images/BlissThera-Forest-Medicine-Virtual-Nature-Therapy-Forest-Walk-branded_1.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
+        "collection": "blissthera",
+        "products_to_show": 4,
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "button_label_2": "",
+        "button_link_2": "",
+        "button_style_secondary_2": false,
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
         "color_scheme": "",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
-    "rich_text_tUrRfp": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eKPRep": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Science of Homeostatic Phytochemical Synergy",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eKPRep"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/BlissThera-Forest-Medicine-Logo-1.87mb_1.webp",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_eMRTzR": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_4JiixE": {
-          "type": "heading",
-          "settings": {
-            "heading": "Homeostasis and Wellbeing",
-            "heading_size": "h1"
-          }
-        },
-        "text_3LpFCL": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The body’s homeostasis system is a remarkable network of natural healing mechanisms that work together to support health and recovery in response to internal and external influences. Simply put, homeostasis is the body’s \"internal machinery\" that is constantly working to help keep us pain-free and ready to thrive. When homeostasis is not working its best, or if negative symptoms persist due to illness, injury, or disease, homeostasis support may help.<br/><br/></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_4JiixE",
-        "text_3LpFCL"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/BlissThera-homeostasis-therapy-phytochemcial-synergy-forest-terpenes.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "image_with_text_t9KU4J": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_w6QXrc": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Essence of BlissThera",
-            "heading_size": "h1"
-          }
-        },
-        "text_FyEa9j": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At the heart of BlissThera<strong>®</strong>is the concept of<em><strong>phytochemical synergy</strong></em>, where plant-derived compounds—terpenes, flavonoids, and other bioactive plant molecules—are delivered in carefully controlled combinations to enhance and support the body’s ability to regulate its homeostatic mechanisms. This therapeutic synergy occurs when multiple phytochemicals interact with various receptor systems in the body, amplifying their collective therapeutic effects.<br/><br/></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_w6QXrc",
-        "text_FyEa9j"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/2148643275.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_8ecxkN": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_t8pEDg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Virtual Nature Personal Forest Atmosphere Technology",
-            "heading_size": "h1"
-          }
-        },
-        "text_WRMgrq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Administered by certified BlissThera<strong>®</strong>practitioners, the system enables the administration of tailored Homeostasis Therapies (via Microprocessor Controlled Phytochemical Synergy) through physician-designed therapy software applications that are programmed into the microprocessor.<br/><br/></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_t8pEDg",
-        "text_WRMgrq"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/repotting-succulents.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 0
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "image_banner_clone_jC4TwP",
-    "rich_text_tUrRfp",
-    "image_with_text_eMRTzR",
-    "image_with_text_t9KU4J",
-    "image_with_text_8ecxkN"
+    "featured_collection_Crd49n"
   ]
 }
