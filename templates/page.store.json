@@ -59,24 +59,10 @@
           "settings": {
             "collection": "all-fav-collection"
           }
-        },
-        "featured_collection_rHLbz4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_aAXrUG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
-        "featured_collection_ch7JfX",
-        "featured_collection_rHLbz4",
-        "featured_collection_aAXrUG"
+        "featured_collection_ch7JfX"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
