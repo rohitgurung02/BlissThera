@@ -47,7 +47,7 @@
   object-fit: cover;
 }
 
-.video-section__media img {
+.video-section__poster img {
     width: 200px !important;
     height: 200px !important;
 }
