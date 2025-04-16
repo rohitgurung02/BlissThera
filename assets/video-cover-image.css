@@ -46,8 +46,3 @@
 .video-section__media.media-fit-cover video {
   object-fit: cover;
 }
-
-.video-section__media img {
-    width: 200px !important;
-    height: 183px !important;
-}
