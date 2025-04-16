@@ -47,7 +47,7 @@
   object-fit: cover;
 }
 
-.video-section__media svg {
+.video-section__media img {
     width: 200px !important;
     height: 183px !important;
 }
