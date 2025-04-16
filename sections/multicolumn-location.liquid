@@ -143,10 +143,10 @@
                  {%- if block.settings.link_label_two != blank -%}
                   <a
                     class="link animate-arrow"
-                    {% if block.settings.link_two == blank %}
+                    {% if block.settings.link_second == blank %}
                       role="link" aria-disabled="true"
                     {% else %}
-                      href="{{ block.settings.link_two }}"
+                      href="{{ block.settings.link_second }}"
                     {% endif %}
                   >
                     {{- block.settings.link_label_two | escape -}}
