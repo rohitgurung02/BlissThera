@@ -16,6 +16,66 @@
         "padding_bottom": 28
       }
     },
+    "multicolumn_location_ftpmNW": {
+      "type": "multicolumn-location",
+      "blocks": {
+        "column_wfzCTR": {
+          "type": "column",
+          "settings": {
+            "title": "General",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_label_two": "",
+            "link_second": ""
+          }
+        },
+        "column_LChfYk": {
+          "type": "column",
+          "settings": {
+            "title": "BlissThera® Elixirs",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_label_two": "",
+            "link_second": ""
+          }
+        },
+        "column_VT7Mbp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_label_two": "",
+            "link_second": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wfzCTR",
+        "column_LChfYk",
+        "column_VT7Mbp"
+      ],
+      "name": "Multicolumn Location",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "Button label",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_YjMREM": {
       "type": "image-banner",
       "blocks": {
@@ -106,72 +166,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_location_ftpmNW": {
-      "type": "multicolumn-location",
-      "blocks": {
-        "column_wfzCTR": {
-          "type": "column",
-          "settings": {
-            "title": "General",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        },
-        "column_LChfYk": {
-          "type": "column",
-          "settings": {
-            "title": "BlissThera® Elixirs",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        },
-        "column_VT7Mbp": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_wfzCTR",
-        "column_LChfYk",
-        "column_VT7Mbp"
-      ],
-      "name": "Multicolumn Location",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "button_label": "Button label",
-        "button_link": "",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
+    "multicolumn_location_ftpmNW",
     "image_banner_YjMREM",
-    "collapsible_content_7HXbgc",
-    "multicolumn_location_ftpmNW"
+    "collapsible_content_7HXbgc"
   ]
 }
