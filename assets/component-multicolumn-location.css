@@ -78,8 +78,8 @@
   background: #fff linear-gradient(rgba(var(--color-foreground),.04),rgba(var(--color-foreground),.04));
 }
 
-.multicolumn.background-secondary .multicolumn-card {
-  border:  rgba(var(--color-foreground), 0,0,0);
+.multicolumn.background-secondary .multicolumn-card .selected {
+ background: #fff linear-gradient(rgba(var(--color-foreground), .04), rgba(var(--color-foreground), .04)); .selected
 }
 
 
