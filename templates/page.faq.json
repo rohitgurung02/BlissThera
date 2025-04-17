@@ -91,7 +91,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "portrait",
         "button_label": "Button label",
         "button_link": "",
@@ -157,7 +157,7 @@
         "heading": "General",
         "heading_size": "h1",
         "heading_alignment": "left",
-        "layout": "none",
+        "layout": "row",
         "container_color_scheme": "scheme-2",
         "color_scheme": "scheme-1",
         "open_first_collapsible_row": false,
