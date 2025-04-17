@@ -113,8 +113,8 @@
         "column_wfzCTR": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "General",
+            "text": "",
             "link_label": "",
             "link": "",
             "link_label_two": "",
