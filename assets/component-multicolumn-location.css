@@ -70,7 +70,7 @@
 
 .multicolumn:not(.background-none) .multicolumn-card .selected {
     background: var(--gradient-base-background-2);
-    color: #fff;
+    color: #000;
     border: 1px solid #00000026;
 }
 .multicolumn.background-primary .multicolumn-card .selected {
