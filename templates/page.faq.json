@@ -85,7 +85,7 @@
         "button_link": "",
         "columns_desktop": 4,
         "column_alignment": "left",
-        "background_style": "secondary",
+        "background_style": "primary",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
