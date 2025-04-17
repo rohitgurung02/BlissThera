@@ -78,7 +78,7 @@
 }
 
 .multicolumn.background-secondary .multicolumn-card {
-  border: 1px solid red;
+  border:  #fff linear-gradient(rgba(var(--color-foreground),.75),rgba(var(--color-foreground),.75));
 }
 
 .multicolumn-list h3 {
