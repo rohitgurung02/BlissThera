@@ -146,10 +146,10 @@
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "none",
-        "container_color_scheme": "scheme-2",
+        "container_color_scheme": "scheme-3",
         "color_scheme": "scheme-1",
         "open_first_collapsible_row": false,
-        "image_ratio": "large",
+        "image_ratio": "small",
         "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
