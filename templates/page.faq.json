@@ -157,7 +157,7 @@
         "image_ratio": "portrait",
         "button_label": "Button label",
         "button_link": "",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "scheme-1",
