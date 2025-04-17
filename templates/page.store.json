@@ -53,17 +53,6 @@
     },
     "collection_list_tHrgWm": {
       "type": "collection-list",
-      "blocks": {
-        "featured_collection_ch7JfX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "all-fav-collection"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_ch7JfX"
-      ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Collections",
