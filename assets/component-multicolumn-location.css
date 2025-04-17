@@ -82,8 +82,10 @@
  background: #fff linear-gradient(rgba(var(--color-foreground), .04), rgba(var(--color-foreground), .04));
 }
 
-.multicolumn.background-primary .multicolumn-card {
-    background: rgb(var(--color-background)) linear-gradient(rgba(var(--color-foreground),.04),rgba(var(--color-foreground),.04));
+.multicolumn-card.content-container.selected {
+    background: var(--gradient-base-background-2);
+    color: #fff;
+    border: 1px solid #00000026;
 }
 
 
