@@ -69,23 +69,11 @@
             "link_label_two": "",
             "link_second": ""
           }
-        },
-        "column_VT7Mbp": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
         }
       },
       "block_order": [
         "column_wfzCTR",
-        "column_LChfYk",
-        "column_VT7Mbp"
+        "column_LChfYk"
       ],
       "name": "Multicolumn Location",
       "settings": {
