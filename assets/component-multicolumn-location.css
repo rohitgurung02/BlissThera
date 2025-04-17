@@ -69,9 +69,12 @@
 }
 
 .multicolumn:not(.background-none) .multicolumn-card .selected {
-      background: var(--gradient-base-background-2);
+    background: var(--gradient-base-background-2);
     color: #fff;
     border: 1px solid #00000026;
+}
+.multicolumn.background-primary .multicolumn-card .selected {
+  background: #fff linear-gradient(rgba(var(--color-foreground),.04),rgba(var(--color-foreground),.04));
 }
 
 .multicolumn.background-primary .multicolumn-card {
