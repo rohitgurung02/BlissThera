@@ -124,19 +124,8 @@
         "column_LChfYk": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": "",
-            "link_label_two": "",
-            "link_second": ""
-          }
-        },
-        "column_Dj7JKz": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "BlissThera® Elixirs",
+            "text": "",
             "link_label": "",
             "link": "",
             "link_label_two": "",
@@ -146,8 +135,7 @@
       },
       "block_order": [
         "column_wfzCTR",
-        "column_LChfYk",
-        "column_Dj7JKz"
+        "column_LChfYk"
       ],
       "name": "Multicolumn Location",
       "settings": {
