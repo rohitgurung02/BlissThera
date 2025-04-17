@@ -51,9 +51,9 @@
         "column_wfzCTR": {
           "type": "column",
           "settings": {
-            "title": "General",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "General",
             "link": "",
             "link_label_two": "",
             "link_second": ""
@@ -81,7 +81,7 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "portrait",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "columns_desktop": 4,
         "column_alignment": "left",
