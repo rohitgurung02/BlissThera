@@ -131,18 +131,30 @@
             "link_label_two": "",
             "link_second": ""
           }
+        },
+        "column_VT7Mbp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_label_two": "",
+            "link_second": ""
+          }
         }
       },
       "block_order": [
         "column_wfzCTR",
-        "column_LChfYk"
+        "column_LChfYk",
+        "column_VT7Mbp"
       ],
       "name": "Multicolumn Location",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "third",
-        "image_ratio": "circle",
+        "image_ratio": "portrait",
         "button_label": "Button label",
         "button_link": "",
         "columns_desktop": 2,
