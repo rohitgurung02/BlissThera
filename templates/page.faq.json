@@ -51,9 +51,9 @@
         "column_wfzCTR": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "General",
             "text": "",
-            "link_label": "General",
+            "link_label": "",
             "link": "https://www.facebook.com",
             "link_label_two": "",
             "link_second": "https://www.youtube.com"
