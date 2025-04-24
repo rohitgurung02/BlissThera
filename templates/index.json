@@ -169,12 +169,28 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_yTKPqV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LisaLunceford.webp",
+            "title": "Lisa Luncefird",
+            "text": "<p>I am utterly shocked, I was riddled with anxiety, pain, and ADHD, and this is probably the calmest I have been in over a year. This is a God-send.<br/><br/></p>",
+            "num_stars": 5,
+            "filled_star_color": "#ffffff",
+            "empty_star_color": "#CCCCCC",
+            "bg_star_color": "#3aae1c",
+            "color_scheme": "scheme-6",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "column_yTKPqV"
       ],
       "settings": {
         "title": "See what people are saying about us",
