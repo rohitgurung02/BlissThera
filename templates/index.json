@@ -35,7 +35,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "button_label": "Button label",
+        "button_label": "Choose Options",
         "button_link": "",
         "button_style_secondary": false,
         "button_label_2": "",
