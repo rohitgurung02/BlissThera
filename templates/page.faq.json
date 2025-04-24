@@ -44,6 +44,51 @@
         "show_text_below": true
       }
     },
+    "multicolumn_clone_JBja8X": {
+      "type": "multicolumn-clone",
+      "blocks": {
+        "column_DjEGBD": {
+          "type": "column",
+          "settings": {
+            "title": "Therapia",
+            "text": "",
+            "link_label": "www.facebook.com",
+            "link": ""
+          }
+        },
+        "column_EJaJ7W": {
+          "type": "column",
+          "settings": {
+            "title": "BlissThera® Elixirs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DjEGBD",
+        "column_EJaJ7W"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Button label",
+        "button_link": "",
+        "background_style": "transparent",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style_first": "none",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "collapsible_content_7HXbgc": {
       "type": "collapsible-content",
       "blocks": {
@@ -101,51 +146,6 @@
         "open_first_collapsible_row": false,
         "image_ratio": "small",
         "desktop_layout": "image_first",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_clone_JBja8X": {
-      "type": "multicolumn-clone",
-      "blocks": {
-        "column_DjEGBD": {
-          "type": "column",
-          "settings": {
-            "title": "Therapia",
-            "text": "",
-            "link_label": "www.facebook.com",
-            "link": ""
-          }
-        },
-        "column_EJaJ7W": {
-          "type": "column",
-          "settings": {
-            "title": "BlissThera® Elixirs",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_DjEGBD",
-        "column_EJaJ7W"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "Button label",
-        "button_link": "",
-        "background_style": "transparent",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style_first": "none",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
