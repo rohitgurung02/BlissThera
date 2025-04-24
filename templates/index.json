@@ -128,12 +128,13 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Lawanda_Franks__edited_1.webp",
+            "title": "Lawanda Franks",
+            "text": "<p>There is no medication in the world that can compare to this;  you come in, in pain, and you leave pain free. Nothing can compare.<br/><br/></p>",
             "num_stars": 5,
-            "filled_star_color": "#FFD700",
+            "filled_star_color": "#ffffff",
             "empty_star_color": "#CCCCCC",
-            "bg_star_color": "transparent",
+            "bg_star_color": "#3aae1c",
             "color_scheme": "",
             "link_label": "",
             "link": ""
