@@ -185,7 +185,6 @@
         "column_KzdBKj",
         "column_Hxwqzi"
       ],
-      "name": "Multicolumn Location",
       "settings": {
         "title": "Locations",
         "heading_size": "h1",
@@ -195,7 +194,7 @@
         "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
