@@ -179,8 +179,8 @@
         "column_EJaJ7W"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "button_label": "Button label",
@@ -188,8 +188,8 @@
         "background_style": "transparent",
         "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style_first": "primary",
-        "section_color_scheme": "",
+        "background_style_first": "none",
+        "section_color_scheme": "scheme-1",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
