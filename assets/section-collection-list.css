@@ -59,3 +59,7 @@
 .collection-list-view-all {
   margin-top: 2rem;
 }
+
+.collection__title h2 {
+    text-align: left !important;
+}
