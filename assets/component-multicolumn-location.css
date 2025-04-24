@@ -294,7 +294,7 @@
 
 .multicolumn-card__info {
     padding: 4rem;
-    display: flex;
+    color: #000;
     justify-content: center;
     align-items: center;
 }
