@@ -419,6 +419,10 @@
   }
 }
 
+.banner__box h2 {
+  color: #fff;
+}
+
 @media screen and (min-width: 750px) {
   .banner__box {
     width: auto;
