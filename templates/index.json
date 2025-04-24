@@ -179,6 +179,63 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_BjKDzQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pUeMtm": {
+          "type": "heading",
+          "settings": {
+            "heading": "new heading",
+            "heading_size": "h1"
+          }
+        },
+        "header_FDyhpG": {
+          "type": "header",
+          "settings": {
+            "heading_first": "heading first",
+            "heading_size_first": "h2",
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        },
+        "text_ex3atV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YeTzbU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pUeMtm",
+        "header_FDyhpG",
+        "text_ex3atV",
+        "button_YeTzbU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1e4918_3e6f7a892f984c5085a5b901c6161736_mv2.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -186,6 +243,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "image_with_text_BjKDzQ"
   ]
 }
