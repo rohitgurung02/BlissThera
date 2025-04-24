@@ -266,6 +266,10 @@
   }
 }
 
+.multicolumn-card__info a {
+    font-size: 19px;
+}
+
 .multicolumn-card__info {
     padding: 3.2rem 0 !important;
     display: flex;
