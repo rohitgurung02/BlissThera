@@ -28,7 +28,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "blissthera",
         "products_to_show": 8,
         "title": "Our Products",
         "heading_size": "h1",
