@@ -60,6 +60,6 @@
   margin-top: 2rem;
 }
 
-.collection__title .title {
+.collection__title.title {
     text-align: left !important;
 }
