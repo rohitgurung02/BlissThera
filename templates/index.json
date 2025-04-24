@@ -143,6 +143,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/circular_resized_image.png",
             "title": "Kate Ojala",
             "text": "<p>I am crying right now (tears of joy); I have not been free of this pain in years, I did not think it was possible. I can not believe it.<br/><br/></p>",
             "num_stars": 5,
