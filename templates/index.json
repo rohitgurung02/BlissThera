@@ -59,43 +59,52 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
+    "image_with_text_BjKDzQ": {
+      "type": "image-with-text",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "heading_pUeMtm": {
+          "type": "heading",
           "settings": {
-            "collection": ""
+            "heading": "BlissThera",
+            "heading_size": "h2"
           }
         },
-        "product": {
-          "type": "product",
+        "header_FDyhpG": {
+          "type": "header",
           "settings": {
-            "product": "",
-            "second_image": false
+            "heading_first": "The <strong>SCIENCE</strong> of Homeostatic Phytochemical Synergy",
+            "heading_size_first": "h2",
+            "padding_top": 0,
+            "padding_bottom": 0
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "text_ex3atV": {
+          "type": "text",
           "settings": {
-            "collection": ""
+            "text": "<p>The body’s homeostasis system is a remarkable network of natural healing mechanisms that work together to support health and recovery in response to internal and external influences.</p><p>Simply put, homeostasis is the body’s \"internal machinery\" that is constantly working to help keep us pain-free and ready to thrive. When homeostasis is not working its best, or if negative symptoms persist due to illness, injury, or disease, homeostasis support may help.</p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "heading_pUeMtm",
+        "header_FDyhpG",
+        "text_ex3atV"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image": "shopify://shop_images/1e4918_3e6f7a892f984c5085a5b901c6161736_mv2.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "video": {
@@ -179,62 +188,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_BjKDzQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_pUeMtm": {
-          "type": "heading",
-          "settings": {
-            "heading": "BlissThera",
-            "heading_size": "h2"
-          }
-        },
-        "header_FDyhpG": {
-          "type": "header",
-          "settings": {
-            "heading_first": "The <strong>SCIENCE</strong> of Homeostatic Phytochemical Synergy",
-            "heading_size_first": "h2",
-            "padding_top": 0,
-            "padding_bottom": 0
-          }
-        },
-        "text_ex3atV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The body’s homeostasis system is a remarkable network of natural healing mechanisms that work together to support health and recovery in response to internal and external influences.</p><p>Simply put, homeostasis is the body’s \"internal machinery\" that is constantly working to help keep us pain-free and ready to thrive. When homeostasis is not working its best, or if negative symptoms persist due to illness, injury, or disease, homeostasis support may help.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_pUeMtm",
-        "header_FDyhpG",
-        "text_ex3atV"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/1e4918_3e6f7a892f984c5085a5b901c6161736_mv2.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
-    "collage",
+    "image_with_text_BjKDzQ",
     "video",
-    "multicolumn",
-    "image_with_text_BjKDzQ"
+    "multicolumn"
   ]
 }
