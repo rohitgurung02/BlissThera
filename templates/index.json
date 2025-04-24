@@ -110,11 +110,11 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "",
+        "heading": "BlissThera Patients Testimonials",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/BlissThera-Forest-Medicine-Logo-1.87mb.webp",
+        "cover_image": "shopify://shop_images/BlissThera-Forest-Medicine-Logo-1.87mb_1.webp",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-1",
