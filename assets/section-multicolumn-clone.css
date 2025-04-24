@@ -265,3 +265,12 @@
     display: list-item;
   }
 }
+
+.transparent-bg {
+  background-color: transparent;
+}
+
+.grey-bg {
+  background-color: #f0f0f0; /* or any grey tone you like */
+}
+
