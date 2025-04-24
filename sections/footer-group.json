@@ -46,7 +46,7 @@
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails list",
         "heading_size": "h2",
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "text": "<p>Patient testimonials are not to be interpreted as medical claims. BlissThera is a non-pharmacological Alternative Therapy based on the globally recognized health modality of Forest Medicine. Thus, the statements and testimonials found on this website do not qualify as medical claims nor are they for evaluation by the Food and Drug Administration<br/><br/></p>",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
