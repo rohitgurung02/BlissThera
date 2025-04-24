@@ -158,9 +158,9 @@
         "column_DjEGBD": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Therapia",
             "text": "",
-            "link_label": "",
+            "link_label": "www.facebook.com",
             "link": ""
           }
         },
@@ -187,7 +187,7 @@
         "button_link": "",
         "background_style": "transparent",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style_first": "primary",
         "section_color_scheme": "",
         "color_scheme": "",
