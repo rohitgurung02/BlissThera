@@ -266,6 +266,13 @@
   }
 }
 
+.multicolumn-card__info {
+    padding: 3.2rem 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .transparent-bg {
   background-color: transparent;
 }
