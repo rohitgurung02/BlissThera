@@ -169,69 +169,6 @@
         "padding_top": 30,
         "padding_bottom": 0
       }
-    },
-    "multicolumn_location_ThaYVW": {
-      "type": "multicolumn-location",
-      "blocks": {
-        "column_dnUtNH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/location_three.webp",
-            "title": "BlissThera - North Little Rock, AR Clinic",
-            "text": "<p>5106 McClanahan Dr, North Little Rock, AR 72116</p>",
-            "link_label": "(501) 255-6673‬",
-            "link": "https://www.facebook.com",
-            "link_label_two": "Located in",
-            "link_second": "https://www.facebook.com"
-          }
-        },
-        "column_7GkMxD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/location_one.webp",
-            "title": "BlissThera Fayetteville, AR Clinic",
-            "text": "<p>2863 Old Missouri Rd, Ste 110-CFayetteville AR 72703</p>",
-            "link_label": "(479) 225-5299‬",
-            "link": "",
-            "link_label_two": "Located in",
-            "link_second": ""
-          }
-        },
-        "column_zzR4Wr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/location_two.webp",
-            "title": "BlissThera Home Office  Little Rock, AR",
-            "text": "<p>After Hour Clinic Only</p><p>3924 W. Markham St. Little Rock, AR 72205</p>",
-            "link_label": "(501) 255-6673",
-            "link": "",
-            "link_label_two": "Located in",
-            "link_second": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dnUtNH",
-        "column_7GkMxD",
-        "column_zzR4Wr"
-      ],
-      "name": "Multicolumn Location",
-      "settings": {
-        "title": "Locations",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -240,7 +177,6 @@
     "rich_text_tUrRfp",
     "image_with_text_eMRTzR",
     "image_with_text_t9KU4J",
-    "image_with_text_8ecxkN",
-    "multicolumn_location_ThaYVW"
+    "image_with_text_8ecxkN"
   ]
 }
